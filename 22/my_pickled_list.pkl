@@ -1,0 +1,8 @@
+(lp0
+S'1'
+p1
+aI73
+aS'Hello there'
+p2
+aF8.121212e-12
+a.
